@@ -51,7 +51,7 @@ mongoengine==0.14.3
 mongoengine-goodjson==1.1
 murmurhash==0.26.4
 networkx==2.0
-numpy==1.13.3
+numpy==1.22.0
 olefile==0.44
 openpyxl==2.3.5
 passwordmeter==0.1.8
