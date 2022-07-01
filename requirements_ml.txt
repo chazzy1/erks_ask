@@ -53,7 +53,7 @@ murmurhash==0.26.4
 networkx==2.0
 numpy==1.13.3
 olefile==0.44
-openpyxl==2.3.5
+openpyxl==2.4.2
 passwordmeter==0.1.8
 pathlib==1.0.1
 Pillow==4.3.0
