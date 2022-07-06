@@ -36,7 +36,7 @@ flask-swagger==0.2.13
 Flask-WTF==0.14.2
 ftfy==4.4.3
 globre==0.1.5
-html5lib==0.9999999
+html5lib==0.999999999
 humanize==0.5.1
 idna==2.6
 itsdangerous==0.24
